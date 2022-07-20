@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(156, 215, 238);
+  }
+  
+  .gifs {
+    margin: 0 auto;
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .gif {
+    padding: 0 3px;
+  }
+  
+  .loader {
+    color: rgba(0, 2, 7, 0.959);
+  }
+   
+
+
+  
+  
+  
